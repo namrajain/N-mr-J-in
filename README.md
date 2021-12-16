@@ -8,6 +8,6 @@ Things I'm good at 🔥
 
 Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science & Data Visualization
 
-Languages: Python, SQL, HTML, CSS, R.
+Languages: Python, SQL, R.
 
 Libraries & Tools: AWS EC2, AWS S3, Lambda Functions, NumPy, Pandas, Scikit-Learn, Matplotlib, , PyTorch, Keras & NLTK.
