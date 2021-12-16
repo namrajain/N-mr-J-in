@@ -5,6 +5,7 @@ Myself N@mr@J@in . I am currently pursuing my Masters in Data Science(Class of 2
 In the past, I have worked with TCS as an SAP BASIS & SECURITY Consultant.
 
 Things I'm good at 🔥
+
 Domain: Natural Language Processing, Image Processing, Machine Learning, Deep Learning, Data Science & Data Visualization
 
 Languages: Python, SQL, HTML, CSS, R.
